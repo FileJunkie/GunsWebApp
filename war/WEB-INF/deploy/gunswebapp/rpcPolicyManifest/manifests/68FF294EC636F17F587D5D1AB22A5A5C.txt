@@ -1,0 +1,2 @@
+serviceClass: gunsWebApp.client.GreetingService
+path: 6901D3552C0DB10F6F2783FBE18B1769.gwt.rpc
